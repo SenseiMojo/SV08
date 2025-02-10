@@ -8,7 +8,7 @@ INDEX
   - [Spool Holder](#spool-holder)
   - [Power Inlet](#power-inlet)
   - [Klipper Screen](#klipper-screen)
-  - [Electronis Compartment](#electronics-compartment)
+  - [Electronics Compartment](#electronics-compartment)
   - [Toolhead](#toolhead)
   - [Filament Path](#filament-path)
 - [Modifications](#modifications)
