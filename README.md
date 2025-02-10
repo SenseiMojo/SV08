@@ -39,6 +39,6 @@ INDEX
 ---
 ## MOD: Spool Holder
 - Side spool holder and filament runout sensor holder
-  -- https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2
-  -- https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder
+  - https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2
+  - https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder
 - 
