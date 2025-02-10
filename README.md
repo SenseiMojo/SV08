@@ -8,8 +8,7 @@ INDEX
   - [Spool Holder](#spool-holder)
   - [Power Inlet](#power-inlet)
   - [Klipper Screen](#klipper-screen)
-  - [MCU Fan](#mcu-fan)
-  - [Extra_MCU Fan](#extra_mcu-fan)
+  - [Electronis Compartment](#electronics-compartment)
   - [Toolhead](#toolhead)
   - [Filament Path](#filament-path)
 - [Modifications](#modifications)
@@ -33,12 +32,12 @@ INDEX
 - ... 023: should be on the same side as the spool holder and interface ports to minimize protrusions.
 ## Klipper Screen
 - ... 031: is partially eclipsed by the printed case for sight and touch.
-## MCU Fan
-- ... 041: is full on and noisy.
-## Extra_MCU fan
-- ... 042: is noisy.
+## Electronics Compartment
+- ... 041: mcu_fan is full on and noisy.
+- ... 042: is protected with a formed sheet (GOOD).
 ## Toolhead
 - ... 051: is large and obscures view of nozzle interface to buildplate.
+- ... 052: fan is noisy.
 ## Filament Path
 - ... 061: requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 
