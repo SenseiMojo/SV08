@@ -2,7 +2,18 @@
 Info &amp; Mods relevant to Sovol SV08
 
 ---
+INDEX
+- [Comments and Critiques](#comments-and-critiques)
+  - [Spool Holder](#spool-holder)
+  - [Power Inlet](#power-inlet)
+  - [Klipper Screen](#klipper-screen)
+  - [MCU Fan](#mcu-fan)
+  - [Extra_MCU Fan](#extra-mcu-fan)
+  - [Filament Path](#filament-path)
+- [Modifications](#modifications)
+  - [Spool Holder](#mod-spool holder)
 
+---
 
 # Comments and Critiques
 ---
@@ -26,7 +37,7 @@ Info &amp; Mods relevant to Sovol SV08
 
 # Modifications
 ---
-## Spool Holder
+## MOD: Spool Holder
 - Side spool holder and filament runout sensor holder
   -- https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2
   -- https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder
