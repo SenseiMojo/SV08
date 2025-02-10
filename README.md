@@ -11,7 +11,7 @@ INDEX
   - [Extra_MCU Fan](#extra-mcu-fan)
   - [Filament Path](#filament-path)
 - [Modifications](#modifications)
-  - [Spool Holder](#mod-spool holder)
+  - [Spool Holder](#mod-spool-holder)
 
 ---
 
