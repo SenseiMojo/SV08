@@ -112,4 +112,4 @@ Ideas when modding a Voron or Delta (or any printer or related device)
 
 ## Note: Consolidate Protrusions
 - Where possible, conslidate protrusions to keep distancing restrictions to a single side.
-  - It's okay if they aren't grouped together (separate high- from low- voltage).
+  - It's okay if they aren't grouped together (separate physical from high-voltage ports from low-voltage ports).
