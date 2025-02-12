@@ -18,6 +18,7 @@ INDEX
   - [Microswiss Hotend](#mod-microswiss-hotend)
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
 - [Builds](#builds)
+  - [Common to All Builds](#common-to-all-builds)
   - [Falconer](#unit1--falconer)
   - [Hydra](#unit2--hydra)
 
@@ -87,18 +88,16 @@ INDEX
 ---
 
 # Builds
-## Unit1- Falconer
+## Common to All Builds
 - [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Corner Braces](#mod-corner-braces)
 - [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
+
+## Unit1- Falconer
 - [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Unit2- Hydra
-- [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
-- [MOD: Power Inlet Connector](#mod-power-inlet-connector)
-- [MOD: Corner Braces](#mod-corner-braces)
-- [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 
 ## Unit3- TBA
