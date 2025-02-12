@@ -18,8 +18,8 @@ INDEX
   - [Microswiss Hotend](#mod-microswiss-hotend)
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
 - [Builds](#builds)
-  - [Falconer](#falconer)
-  - [Hydra](#hydra)
+  - [Falconer](#unit1--falconer)
+  - [Hydra](#unit2--hydra)
 
 ---
 
@@ -59,51 +59,53 @@ INDEX
 ---
 
 # Modifications
-## MOD: Mainline Klipper
-- [ ] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
-- Address(es) 043 above
-## MOD: Spool Holder and Filament Runout Sensor
-- [ ] Side spool holder [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
-- Address(es) 011, 012, 013, 014, 015 above
-- [ ] Filament runout sensor holder [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
-- Supports mod above
-## MOD: Power Inlet Connector
-- [ ] C14 to C13 90&deg; connector [Amazon: purchased](https://a.co/d/5RM94Rs)
-  - or [Amazon: search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
-- Address(es) 022 above
-## MOD: Corner Braces
-- [ ] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
-- Address(es) 003 above
-## MOD: Microswiss Hotend
-- [ ] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
-## MOD: Sovol Hotend Kit
-- [ ] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
 ## MOD: Anti-vibration Feet
 - [ ] [Shock and Noise Cancelling Washing Machine Support](https://a.co/d/hu0rnZA)
 - [ ] [Anti-Vibration Washing Machine Adapter](https://makerworld.com/en/models/20891#profileId-23767) printed in TPU
 - [ ] upload adapter (TO DO)
 - Address(es) 004 above
+## MOD: Corner Braces
+- [ ] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
+- Address(es) 003 above
+## MOD: Mainline Klipper
+- [ ] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
+- Address(es) 043 above
+## MOD: Microswiss Hotend
+- [ ] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
+## MOD: Power Inlet Connector
+- [ ] C14 to C13 90&deg; connector [Amazon: purchased](https://a.co/d/5RM94Rs)
+  - or [Amazon: search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
+- Address(es) 022 above
+## MOD: Spool Holder and Filament Runout Sensor
+- [ ] Side spool holder [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
+- Address(es) 011, 012, 013, 014, 015 above
+- [ ] Filament runout sensor holder [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
+- Supports mod above
+## MOD: Sovol Hotend Kit
+- [ ] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
 
 ---
 
 # Builds
-## Falconer
+## Unit1- Falconer
 - [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Corner Braces](#mod-corner-braces)
 - [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
-## Hydra
+## Unit2- Hydra
 - [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Corner Braces](#mod-corner-braces)
 - [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 
-## Unit3 (to be acquired)
+## Unit3- TBA
+- To Be Acquired
 
-## Unit4 (to be acquired)
+## Unit4- TBA
+- To Be Acquired
 
 ---
 
