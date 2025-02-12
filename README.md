@@ -12,9 +12,11 @@ INDEX
   - [Toolhead](#toolhead)
   - [Filament Path](#filament-path)
 - [Modifications](#modifications)
-  - [Spool Holder](#mod-spool-holder)
+  - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
   - [Power Inlet Connector](#mod-power-inlet-connector)
   - [Corner Braces](#mod-corner-brances)
+  - [Microswiss Hotend](#mod-microswiss-hotend)
+  - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
 - [Builds](#builds)
   - [Falconer](#falconer)
   - [Hydra](#hydra)
@@ -24,7 +26,7 @@ INDEX
 # Comments and Critiques
 ---
 ## Overall
-- 001: the color scheme is appealing.
+- 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).
 - [ ] 002: a printable match to the main blue is elusive.
 - [ ] 003: the frame may be a bit wobbly.
 ## Spool Holder
@@ -40,44 +42,53 @@ INDEX
 ## Klipper Screen
 - [ ] 031: is partially eclipsed by the printed case for sight and touch.
 - [ ] 032: requires 2 separate cables that run externally.
-## Electronics Compartment
+## Electronics
 - [ ] 041: mcu_fan is full on and noisy.
 - [ ] 042: is protected with a formed sheet (GOOD).
+- [ ] 043: does not use mainline Klipper.
 ## Toolhead
 - [ ] 051: is large and obscures view of nozzle interface to buildplate.
 - [ ] 052: fan is noisy.
-## Filament Path
-- [ ] 061: requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
+## Filament
+- [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
+- [ ] 062: doesn't seem to flow through the nozzle consistently.
 ## Camera
 - [ ] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 
 # Modifications
 ---
-## MOD: Spool Holder
-- Side spool holder and filament runout sensor holder
-  - [ ] [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
-  - [ ] [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
+## MOD: Mainline Klipper
+- [ ] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
+  - Address(es) 043 above
+## MOD: Spool Holder and Filament Runout Sensor
+- [ ] Side spool holder [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
   - Address(es) 011, 012, 013, 014, 015 above
+- [ ] Filament runout sensor holder [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
+  - Supports mod above
 ## MOD: Power Inlet Connector
-- C14 to C13 90&deg; connector
-  - [ ] [Amazon: purchased](https://a.co/d/5RM94Rs)
+- [ ] C14 to C13 90&deg; connector [Amazon: purchased](https://a.co/d/5RM94Rs)
   - or [Amazon: search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
   - Address(es) 022 above
 ## MOD: Corner Braces
-- Top Corner Braces
-  - [ ] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
+- [ ] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
   - Address(es) 003 above
+## MOD: Microswiss Hotend
+- [ ] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
+## MOD: Sovol Hotend Kit
+- [ ] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
  
 # Builds
 ## Falconer
 - [MOD: Spool Holder](#mod-spool-holder)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Top Corner Braces](#mod-top-corner-braces)
+- [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Hydra
 - [MOD: Spool Holder](#mod-spool-holder)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Top Corner Braces](#mod-top-corner-braces)
+- [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 
  <hr/>
 # Note to Self
