@@ -12,10 +12,14 @@ INDEX
   - [Toolhead](#toolhead)
   - [Filament](#filament)
 - [Modifications](#modifications)
-  - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
-  - [Power Inlet Connector](#mod-power-inlet-connector)
+  - [Anti-Vibration Feet](#mod-anti-vibration-feet)
   - [Corner Braces](#mod-corner-braces)
+  - [Enclosure](#mod-enclosure)
+  - [Filament Sensor](#mod-filament-sensor)
+  - [Mainline Klipper](#mod-mainline-klipper)
   - [Microswiss Hotend](#mod-microswiss-hotend)
+  - [Power Inlet Connector](#mod-power-inlet-connector)
+  - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
 - [Builds](#builds)
   - [Common to All Builds](#common-to-all-builds)
@@ -55,6 +59,7 @@ INDEX
 ## Filament
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 - [ ] 062: doesn't seem to flow through the nozzle consistently.
+- [ ] 063: can get tangled in spool holder ruining a print.
 ## Camera
 - [ ] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 
@@ -72,6 +77,9 @@ INDEX
 ## MOD: Enclosure
 - [ ] [Sovol SV08 Enclosure](https://www.sovol3d.com/collections/fdm-parts/products/sv08-transparent-plexiglass-open-enclosure)
 - Address(es) 005 above.
+## MOD: Filament Sensor
+- [ ] [Sovol SV08 Filament Anti-Tangle Detector](https://www.sovol3d.com/collections/fdm-parts/products/sv08-filament-anti-tangle-detection-module)
+- Address(es) 063 above
 ## MOD: Mainline Klipper
 - [ ] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
 - Address(es) 043 above
