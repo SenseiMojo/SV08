@@ -30,6 +30,7 @@ INDEX
 - [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
+- [ ] 005: the printer cannot print ABS/ASA/etc.
 ## Spool Holder
 - [x] 011: is too free-wheeling.
 - [x] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
@@ -68,6 +69,9 @@ INDEX
 ## MOD: Corner Braces
 - [ ] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
 - Address(es) 003 above
+## MOD: Enclosure
+- [ ] [Sovol SV08 Enclosure](https://www.sovol3d.com/collections/fdm-parts/products/sv08-transparent-plexiglass-open-enclosure)
+- Address(es) 005 above.
 ## MOD: Mainline Klipper
 - [ ] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
 - Address(es) 043 above
@@ -89,15 +93,18 @@ INDEX
 
 # Builds
 ## Common to All Builds
-- [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
-- [MOD: Corner Braces](#mod-corner-braces)
 - [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 
 ## Unit1- Falconer
+- [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
+- [MOD: Corner Braces](#mod-corner-braces)
+- [ ] [MOD: Enclosure](#mod-enclosure) (to be installed)
 - [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Unit2- Hydra
+- [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
+- [MOD: Corner Braces](#mod-corner-braces)
 - [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 
 ## Unit3- TBA
