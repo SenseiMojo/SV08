@@ -35,8 +35,8 @@ INDEX
 - [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
-- [ ] 005: the printer cannot print ABS/ASA/etc.
-- [ ] 006: the system can only print one color.
+- [x] 005: the printer cannot print ABS/ASA/etc.
+- [x] 006: the system can only print one color.
 ## Spool Holder
 - [x] 011: is too free-wheeling.
 - [x] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
@@ -51,17 +51,17 @@ INDEX
 - [ ] 031: is partially eclipsed by the printed case for sight and touch.
 - [ ] 032: requires 2 separate cables that run externally.
 ## Electronics
-- [ ] 041: mcu_fan is full on and noisy.
-- [ ] 042: bay in base is protected with a formed sheet (GOOD).
-- [ ] 043: mainboard does not use mainline Klipper.
+- [x] 041: mcu_fan is full on and noisy.
+- 042: bay in base is protected with a formed sheet (GOOD).
+- [x] 043: mainboard does not use mainline Klipper.
 ## Toolhead
 - [ ] 051: is large and obscures view of nozzle interface to buildplate.
 - [ ] 052: fan is noisy.
-- [ ] 053: board does not use mainline Klipper.
+- [x] 053: board does not use mainline Klipper.
 ## Filament
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
-- [ ] 062: doesn't seem to flow through the nozzle consistently.
-- [ ] 063: can get tangled in spool holder ruining a print.
+- [x] 062: doesn't seem to flow through the nozzle consistently.
+- [x] 063: can get tangled in spool holder ruining a print.
 ## Camera
 - [ ] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 
@@ -78,7 +78,7 @@ INDEX
 - Address(es) 003 above
 ## MOD: Enclosure
 - [ ] [Sovol SV08 Enclosure](https://www.sovol3d.com/collections/fdm-parts/products/sv08-transparent-plexiglass-open-enclosure)
-- Address(es) 005 above.
+- Address(es) 005 above
 ## MOD: Filament Sensor
 - [ ] [Sovol SV08 Filament Anti-Tangle Detector](https://www.sovol3d.com/collections/fdm-parts/products/sv08-filament-anti-tangle-detection-module)
 - Address(es) 063 above
