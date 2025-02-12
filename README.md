@@ -21,6 +21,7 @@ INDEX
   - [Power Inlet Connector](#mod-power-inlet-connector)
   - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
+  - [Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
   - [Toolchanger System](#mod-toolchanger-system)
 - [Builds](#builds)
   - [Common to All Builds](#common-to-all-builds)
@@ -84,7 +85,7 @@ INDEX
 - Address(es) 063 above
 ## MOD: Mainline Klipper
 - [ ] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
-- Address(es) 043 above
+- Address(es) 043, 053 above
 ## MOD: Microswiss Hotend
 - [ ] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
 - Address(es) 062 above
@@ -95,10 +96,13 @@ INDEX
 ## MOD: Spool Holder and Filament Runout Sensor
 - [ ] Side spool holder [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
 - [ ] Filament runout sensor holder [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
-- Address(es) 011, 012, 013, 014, 015 above
+- Address(es) 011, 012, 013, 015 above
 ## MOD: Sovol Hotend Kit
 - [ ] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
 - Address(es) 062 above
+## MOD: Temperature Controlled MCU Fan
+- [ ] []()
+- Address(es) 041 above
 ## MOD: Toolchanger System
 - [ ] [Teaching Tech SVO8 Budget Toolchanger](https://www.youtube.com/playlist?list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU)
 - Address(es) 006 above
@@ -112,6 +116,8 @@ INDEX
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
+- [x] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
 - [ ] [MOD: Enclosure](#mod-enclosure) (to be installed)
 - [ ] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
@@ -120,7 +126,9 @@ INDEX
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
-- [ ] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
+- [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
+- [x] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 - [ ] [MOD: Toolchanger System](#mod-toolchanger-system)
 
 ## Unit3- TBA
