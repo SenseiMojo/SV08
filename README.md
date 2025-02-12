@@ -90,12 +90,14 @@ INDEX
 - [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Top Corner Braces](#mod-top-corner-braces)
+- [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Hydra
 - [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Top Corner Braces](#mod-top-corner-braces)
+- [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 
 ---
