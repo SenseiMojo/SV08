@@ -1,5 +1,5 @@
 # SV08
-Info &amp; Mods relevant to Sovol SV08
+Information &amp; Modifications relevant to the Sovol SV08
 
 ---
 INDEX
@@ -13,7 +13,10 @@ INDEX
   - [Filament Path](#filament-path)
 - [Modifications](#modifications)
   - [Spool Holder](#mod-spool-holder)
-  - [Power Inlet](#mod-power-inlet)
+  - [Power Inlet Connector](#mod-power-inlet-connector)
+- [Builds](#builds)
+  - [Falconer](#falconer)
+  - [Hydra](#hydra)
 
 ---
 
@@ -22,6 +25,7 @@ INDEX
 ## Overall
 - 001: the color scheme is appealing.
 - 002: a printable match to the main blue is elusive.
+- 003: the frame may be a bit wobbly.
 ## Spool Holder
 - [ ] 011: is too free-wheeling.
 - [ ] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
@@ -48,18 +52,32 @@ INDEX
 ---
 ## MOD: Spool Holder
 - Side spool holder and filament runout sensor holder
-  - [ ] https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2
-  - [ ] https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder
+  - [Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
+  - [Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
   - Address(es) 011, 012, 013, 014, 015 above
-## MOD: Power Inlet
+## MOD: Power Inlet Connector
 - C14 to C13 90&deg; connector
-  - [ ] [purchased](https://a.co/d/5RM94Rs)
+  - [purchased](https://a.co/d/5RM94Rs)
   - or [search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
   - Address(es) 022 above
+## MOD: Top Corner Braces
+- [Time Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
+  - Address(es) 003 above
  
+# Builds
+## Falconer
+- [MOD: Spool Holder](#mod-spool-holder)
+- [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [MOD: Top Corner Braces](#mod-top-corner-braces)
+
+## Hydra
+- [MOD: Spool Holder](#mod-spool-holder)
+- [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [MOD: Top Corner Braces](#mod-top-corner-braces)
+
+ <hr/>
 # Note to Self
----
 Ideas when modding a Voron or Delta (or any printer or related device)
 
 ## Note: Consolidate Protrusions
-- Where possible, conslidate protrusions to keep distancing obstacles to a single side
+- Where possible, conslidate protrusions to keep distancing restrictions to a single side
