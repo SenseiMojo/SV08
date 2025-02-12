@@ -14,6 +14,7 @@ INDEX
 - [Modifications](#modifications)
   - [Spool Holder](#mod-spool-holder)
   - [Power Inlet Connector](#mod-power-inlet-connector)
+  - [Corner Braces](#mod-corner-brances)
 - [Builds](#builds)
   - [Falconer](#falconer)
   - [Hydra](#hydra)
@@ -62,8 +63,9 @@ INDEX
   - [ ] [Amazon: purchased](https://a.co/d/5RM94Rs)
   - or [Amazon: search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
   - Address(es) 022 above
-## MOD: Top Corner Braces
-  - [ ] [Printables: Time Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
+## MOD: Corner Braces
+- Top Corner Braces
+  - [ ] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
   - Address(es) 003 above
  
 # Builds
