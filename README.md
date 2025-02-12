@@ -21,6 +21,7 @@ INDEX
   - [Power Inlet Connector](#mod-power-inlet-connector)
   - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
+  - [Toolchanger System](#mod-toolchanger-system)
 - [Builds](#builds)
   - [Common to All Builds](#common-to-all-builds)
   - [Falconer](#unit1--falconer)
@@ -35,6 +36,7 @@ INDEX
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
 - [ ] 005: the printer cannot print ABS/ASA/etc.
+- [ ] 006: the system can only print one color.
 ## Spool Holder
 - [x] 011: is too free-wheeling.
 - [x] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
@@ -85,35 +87,41 @@ INDEX
 - Address(es) 043 above
 ## MOD: Microswiss Hotend
 - [ ] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
+- Address(es) 062 above
 ## MOD: Power Inlet Connector
 - [ ] C14 to C13 90&deg; connector [Amazon: purchased](https://a.co/d/5RM94Rs)
   - or [Amazon: search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
 - Address(es) 022 above
 ## MOD: Spool Holder and Filament Runout Sensor
 - [ ] Side spool holder [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
-- Address(es) 011, 012, 013, 014, 015 above
 - [ ] Filament runout sensor holder [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
-- Supports mod above
+- Address(es) 011, 012, 013, 014, 015 above
 ## MOD: Sovol Hotend Kit
 - [ ] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
+- Address(es) 062 above
+## MOD: Toolchanger System
+- [ ] [Teaching Tech SVO8 Budget Toolchanger](https://www.youtube.com/playlist?list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU)
+- Address(es) 006 above
 
 ---
 
 # Builds
-## Common to All Builds
-- [MOD: Power Inlet Connector](#mod-power-inlet-connector)
-- [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 
 ## Unit1- Falconer
-- [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
-- [MOD: Corner Braces](#mod-corner-braces)
+- [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
+- [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
+- [x] [MOD: Corner Braces](#mod-corner-braces)
 - [ ] [MOD: Enclosure](#mod-enclosure) (to be installed)
-- [MOD: Microswiss Hotend](#mod-microswiss-hotend)
+- [ ] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Unit2- Hydra
-- [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
-- [MOD: Corner Braces](#mod-corner-braces)
-- [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
+- [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
+- [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
+- [x] [MOD: Corner Braces](#mod-corner-braces)
+- [ ] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
+- [ ] [MOD: Toolchanger System](#mod-toolchanger-system)
 
 ## Unit3- TBA
 - To Be Acquired
