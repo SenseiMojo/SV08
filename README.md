@@ -44,11 +44,12 @@ INDEX
 - [ ] 032: requires 2 separate cables that run externally.
 ## Electronics
 - [ ] 041: mcu_fan is full on and noisy.
-- [ ] 042: is protected with a formed sheet (GOOD).
-- [ ] 043: does not use mainline Klipper.
+- [ ] 042: bay in base is protected with a formed sheet (GOOD).
+- [ ] 043: mainboard does not use mainline Klipper.
 ## Toolhead
 - [ ] 051: is large and obscures view of nozzle interface to buildplate.
 - [ ] 052: fan is noisy.
+- [ ] 053: board does not use mainline Klipper.
 ## Filament
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 - [ ] 062: doesn't seem to flow through the nozzle consistently.
