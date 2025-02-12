@@ -1,5 +1,5 @@
 # SV08
-Information &amp; Modifications relevant to the Sovol SV08
+Information/Modifications relevant to the Sovol SV08
 
 ---
 INDEX
@@ -8,13 +8,13 @@ INDEX
   - [Spool Holder](#spool-holder)
   - [Interface](#interface)
   - [Klipper Screen](#klipper-screen)
-  - [Electronics Compartment](#electronics-compartment)
+  - [Electronics](#electronics)
   - [Toolhead](#toolhead)
-  - [Filament Path](#filament-path)
+  - [Filament](#filament)
 - [Modifications](#modifications)
   - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
   - [Power Inlet Connector](#mod-power-inlet-connector)
-  - [Corner Braces](#mod-corner-brances)
+  - [Corner Braces](#mod-corner-braces)
   - [Microswiss Hotend](#mod-microswiss-hotend)
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
 - [Builds](#builds)
@@ -24,11 +24,11 @@ INDEX
 ---
 
 # Comments and Critiques
----
 ## Overall
 - 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).
 - [ ] 002: a printable match to the main blue is elusive.
 - [ ] 003: the frame may be a bit wobbly.
+- [ ] 004: the printer may vibrate and move around a bit as well as shake the table.
 ## Spool Holder
 - [ ] 011: is too free-wheeling.
 - [ ] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
@@ -55,8 +55,9 @@ INDEX
 ## Camera
 - [ ] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 
-# Modifications
 ---
+
+# Modifications
 ## MOD: Mainline Klipper
 - [ ] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
   - Address(es) 043 above
@@ -76,22 +77,30 @@ INDEX
 - [ ] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
 ## MOD: Sovol Hotend Kit
 - [ ] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
- 
+## MOD: Anti-vibration Feet
+- [ ] [Shock and Noise Cancelling Washing Machine Support](https://a.co/d/hu0rnZA)
+- [ ] [Anti-Vibration Washing Machine Adapter](https://makerworld.com/en/models/20891#profileId-23767) printed in TPU
+- [ ] upload adapter (TO DO)
+  - Address(es) 004 above
+
+---
+
 # Builds
 ## Falconer
-- [MOD: Spool Holder](#mod-spool-holder)
+- [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Top Corner Braces](#mod-top-corner-braces)
 - [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Hydra
-- [MOD: Spool Holder](#mod-spool-holder)
+- [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [MOD: Top Corner Braces](#mod-top-corner-braces)
 - [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 
- <hr/>
-# Note to Self
+---
+
+# Notes to Self
 Ideas when modding a Voron or Delta (or any printer or related device)
 
 ## Note: Consolidate Protrusions
