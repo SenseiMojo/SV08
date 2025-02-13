@@ -54,7 +54,7 @@ INDEX
 ## Electronics
 - [x] 041: mcu_fan is full on and noisy.
 - 042: bay in base is protected with a formed sheet (GOOD).
-- [x] 043: mainboard does not use mainline Klipper.
+- [x] 043: main board does not use mainline Klipper.
 ## Toolhead
 - [ ] 051: is large and obscures view of nozzle interface to buildplate.
 - [ ] 052: fan is noisy.
