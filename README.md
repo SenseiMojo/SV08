@@ -101,7 +101,7 @@ INDEX
 - [ ] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
 - Address(es) 062 above
 ## MOD: Temperature Controlled MCU Fan
-- [ ] []()
+- [ ] [Printables: Silent Fan Mod](https://www.printables.com/model/936462-silent-fan-airflow-mod-for-sovol-sv08) or [YouTube- ThePrintasaurus](https://www.youtube.com/watch?v=HFTSZy99Qmo&t=139s)
 - Address(es) 041 above
 ## MOD: Toolchanger System
 - [ ] [Teaching Tech SVO8 Budget Toolchanger](https://www.youtube.com/playlist?list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU)
@@ -112,24 +112,28 @@ INDEX
 # Builds
 
 ## Unit1- Falconer
-- [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
-- [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
+- [ ] [MOD: Filament Sensor](#mod-filament-sensor) (to be installed)
 - [x] [MOD: Mainline Klipper](#mod-mainline-klipper)
-- [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
+- [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
+- [x] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
+
 - [ ] [MOD: Enclosure](#mod-enclosure) (to be installed)
-- [ ] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
+- [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Unit2- Hydra
-- [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
-- [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
+- [ ] [MOD: Filament Sensor](#mod-filament-sensor) (to be installed)
 - [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
+
 - [x] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
-- [ ] [MOD: Toolchanger System](#mod-toolchanger-system)
+- [ ] [MOD: Toolchanger System](#mod-toolchanger-system) (6 heads)
 
 ## Unit3- TBA
 - To Be Acquired
