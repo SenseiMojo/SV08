@@ -13,6 +13,7 @@ INDEX
   - [Filament](#filament)
 - [Modifications](#modifications)
   - [Anti-Vibration Feet](#mod-anti-vibration-feet)
+  - [Camera Angle](#mod-camera-angle)
   - [Corner Braces](#mod-corner-braces)
   - [Enclosure](#mod-enclosure)
   - [Filament Sensor](#mod-filament-sensor)
@@ -74,6 +75,9 @@ INDEX
 - [ ] [Anti-Vibration Washing Machine Adapter](https://makerworld.com/en/models/20891#profileId-23767) printed in TPU
 - [ ] upload adapter (TO DO)
 - Address(es) 004 above
+## MOD: Camera Angle
+- [ ] [Printables: Camera Angle Bracket](https://www.printables.com/model/912397-sovol-sv08-camera-angle-bracket)
+- Address(es) 071 above
 ## MOD: Corner Braces
 - [ ] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
 - Address(es) 003 above
@@ -113,6 +117,7 @@ INDEX
 
 ## Unit1- Falconer
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
+- [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
 - [ ] [MOD: Filament Sensor](#mod-filament-sensor) (to be installed)
 - [x] [MOD: Mainline Klipper](#mod-mainline-klipper)
@@ -125,6 +130,7 @@ INDEX
 
 ## Unit2- Hydra
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
+- [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
 - [ ] [MOD: Filament Sensor](#mod-filament-sensor) (to be installed)
 - [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
