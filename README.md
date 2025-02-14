@@ -1,2 +1,2 @@
 # SV08
-Info &amp; Mods relevant to Sovol SV08
+Information/Modifications relevant to Sovol SV08
