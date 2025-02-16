@@ -4,6 +4,8 @@ Information/Modifications relevant to the Sovol SV08
 ---
 
 INDEX
+<br/>
+
 - [Comments and Critiques](#comments-and-critiques)
   - [Overall](#overall)
   - [Spool Holder](#spool-holder)
@@ -12,6 +14,8 @@ INDEX
   - [Electronics](#electronics)
   - [Toolhead](#toolhead)
   - [Filament](#filament)
+
+<br/>
 
 - [Modifications](#modifications)
   - [Anti-Vibration Feet](#mod-anti-vibration-feet)
@@ -26,6 +30,8 @@ INDEX
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
   - [Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
   - [Toolchanger System](#mod-toolchanger-system)
+
+<br/>
 
 - [Builds](#builds)
   - [FALCONER](#unit1--falconer)
