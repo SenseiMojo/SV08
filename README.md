@@ -2,8 +2,8 @@
 Information/Modifications relevant to the Sovol SV08
 
 ---
-
 INDEX
+
 <br/>
 
 - [Comments and Critiques](#comments-and-critiques)
