@@ -2,6 +2,7 @@
 Information/Modifications relevant to the Sovol SV08
 
 ---
+
 INDEX
 - [Comments and Critiques](#comments-and-critiques)
   - [Overall](#overall)
@@ -123,8 +124,8 @@ INDEX
 - [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [x] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
-<hr/>
 
+Unit Specific
 - [ ] [MOD: Enclosure](#mod-enclosure) (to be installed)
 - [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
@@ -137,8 +138,8 @@ INDEX
 - [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
-<hr/>
 
+Unit Specific
 - [x] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 - [ ] [MOD: Toolchanger System](#mod-toolchanger-system) (6 heads)
 
