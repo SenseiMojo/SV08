@@ -25,7 +25,6 @@ INDEX
   - [Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
   - [Toolchanger System](#mod-toolchanger-system)
 - [Builds](#builds)
-  - [Common to All Builds](#common-to-all-builds)
   - [Falconer](#unit1--falconer)
   - [Hydra](#unit2--hydra)
 
