@@ -28,8 +28,8 @@ INDEX
   - [Toolchanger System](#mod-toolchanger-system)
 
 - [Builds](#builds)
-  - [Falconer](#unit1--falconer)
-  - [Hydra](#unit2--hydra)
+  - [FALCONER](#unit1--falconer)
+  - [HYDRA](#unit2--hydra)
 
 ---
 
@@ -117,7 +117,10 @@ INDEX
 
 # Builds
 
-## Unit1- Falconer
+## Unit1- FALCONER
+Why Falconer?  It is a translation of "sovol". Although the origin of SOVOL (as a company name) is not known, the world "sovol" translates to "owl" (Ukrainian/Czech) or "question" (Uzbek) but somewhere it was also mapped to "falconer" (link lost).  The owl is an obvious choice - especially given Sovol's alignment with Obico and their logo.  But, "falconer" is more in line with the Voron nomenclature.
+
+Common Modifications
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
@@ -131,7 +134,9 @@ Unit Specific
 - [ ] [MOD: Enclosure](#mod-enclosure) (to be installed)
 - [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
-## Unit2- Hydra
+## Unit2- HYDRA
+Why Hydra?  Besides a wonderful destination in Greece, Hydra also alludes to a multi-headed monster which sounds like a good name for a toolchanger.  Thank Michael at [Teaching Tech](https://www.youtube.com/watch?v=7roEGbkvSCc&list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU) for this.
+
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
