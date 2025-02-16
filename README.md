@@ -135,7 +135,7 @@ Unit Specific
 - [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Unit2- HYDRA
-Why Hydra?  Besides a wonderful destination in Greece, Hydra also alludes to a multi-headed monster which sounds like a good name for a toolchanger.  Thank Michael at [Teaching Tech](https://www.youtube.com/watch?v=7roEGbkvSCc&list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU) for this.
+Why Hydra?  Say "ee-dra" (édra)...  Besides a wonderful destination in Greece, Hydra also alludes to a multi-headed monster which sounds like a good name for a toolchanger.  Thank Michael at [Teaching Tech](https://www.youtube.com/watch?v=7roEGbkvSCc&list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU) for this.
 
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
