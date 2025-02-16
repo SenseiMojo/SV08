@@ -12,6 +12,7 @@ INDEX
   - [Electronics](#electronics)
   - [Toolhead](#toolhead)
   - [Filament](#filament)
+
 - [Modifications](#modifications)
   - [Anti-Vibration Feet](#mod-anti-vibration-feet)
   - [Camera Angle](#mod-camera-angle)
@@ -25,6 +26,7 @@ INDEX
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
   - [Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
   - [Toolchanger System](#mod-toolchanger-system)
+
 - [Builds](#builds)
   - [Falconer](#unit1--falconer)
   - [Hydra](#unit2--hydra)
