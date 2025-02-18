@@ -69,11 +69,12 @@ INDEX
 - [ ] 052: fan is noisy.
 - [x] 053: board does not use mainline Klipper.
 - [ ] 054: doesn't actually dip low enough to clean the nozzle on the brush.
+- [ ] 055: intentially sets nozzle onto plate and squishes out filament before printing purge line.
 ## Filament
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 - [x] 062: doesn't seem to flow through the nozzle consistently.
 - [x] 063: can get tangled in spool holder ruining a print.
-- [ ] 064: is dumped in many places - there is no trash can.
+- [ ] 064: is dumped in many places (front left, back left) - there is no trash can.
 ## Camera
 - [ ] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 
