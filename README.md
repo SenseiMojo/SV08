@@ -45,8 +45,8 @@ INDEX
 - [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
-- [x] 005: the printer cannot print ABS/ASA/etc.
-- [x] 006: the system can only print one color.
+- [ ] 005: the printer cannot print ABS/ASA/etc.
+- [ ] 006: the system can only print one color.
 ## Spool Holder
 - [x] 011: is too free-wheeling.
 - [x] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
@@ -70,10 +70,11 @@ INDEX
 - [x] 053: board does not use mainline Klipper.
 - [ ] 054: doesn't actually dip low enough to clean the nozzle on the brush.
 - [ ] 055: intentially sets nozzle onto plate and squishes out filament before printing purge line.
+- [ ] 056: is missing spring on tensioner screw.
 ## Filament
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 - [x] 062: doesn't seem to flow through the nozzle consistently.
-- [x] 063: can get tangled in spool holder ruining a print.
+- [ ] 063: can get tangled in spool holder ruining a print.
 - [ ] 064: is dumped in many places (front left, back left) - there is no trash can.
 ## Camera
 - [ ] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
