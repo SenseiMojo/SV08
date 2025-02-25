@@ -11,7 +11,7 @@ INDEX
   - [Overall](#overall)
   - [Spool Holder](#spool-holder)
   - [Interface](#interface)
-  - [Klipper Screen](#klipper-screen)
+  - [Screen](#screen)
   - [Electronics](#electronics)
   - [Toolhead](#toolhead)
   - [Filament](#filament)
@@ -58,9 +58,11 @@ INDEX
 - [ ] 021: for power inlet seems upside down - 1 is down while 0 is up.
 - [x] 022: for power inlet causes cord to stick straight out thus distancing printer from the wall.
 - [ ] 023: for power inlet should be on the same side as the spool holder and interface ports to minimize protrusions.
-## Klipper Screen
-- [ ] 031: is partially eclipsed by the printed case for sight and touch.
-- [ ] 032: requires 2 separate cables that run externally.
+## Screen
+- [ ] 031: (Klipper) is partially eclipsed by the printed case for sight and touch.
+- [ ] 032: (Klipper) requires 2 separate cables that run externally.
+- [ ] 033: (Standard) is a bit klunky although functional.
+- [ ] 034: (Stamdard) menu options are bare bones.
 ## Electronics
 - [x] 041: mcu_fan is full on and noisy.
 - 042: bay in base is protected with a formed sheet (GOOD).
@@ -101,8 +103,8 @@ INDEX
 - [ ] [Sovol SV08 Filament Anti-Tangle Detector](https://www.sovol3d.com/collections/fdm-parts/products/sv08-filament-anti-tangle-detection-module)
 - Address(es) 063 above
 ## MOD: Klipper Screen
-- [c] [Sovol SV08 HDMI Capacitive Klipper Screen](https://www.sovol3d.com/collections/fdm-parts/products/sv08-upgraded-hdmi5-screen-kits)
-- 
+- [x] [Sovol SV08 HDMI Capacitive Klipper Screen](https://www.sovol3d.com/collections/fdm-parts/products/sv08-upgraded-hdmi5-screen-kits)
+- Address(es) 033 above
 ## MOD: Mainline Klipper
 - [x] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
 - Address(es) 043, 053 above
