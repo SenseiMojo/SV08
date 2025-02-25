@@ -84,15 +84,15 @@ INDEX
 
 # Modifications
 ## MOD: Anti-vibration Feet
-- [ ] [Shock and Noise Cancelling Washing Machine Support](https://a.co/d/hu0rnZA)
-- [ ] [Anti-Vibration Washing Machine Adapter](https://makerworld.com/en/models/20891#profileId-23767) printed in TPU
+- [x] [Shock and Noise Cancelling Washing Machine Support](https://a.co/d/hu0rnZA)
+- [x] [Anti-Vibration Washing Machine Adapter](https://makerworld.com/en/models/20891#profileId-23767) printed in TPU
 - [ ] upload adapter (TO DO)
 - Address(es) 004 above
 ## MOD: Camera Angle
 - [ ] [Printables: Camera Angle Bracket](https://www.printables.com/model/912397-sovol-sv08-camera-angle-bracket)
 - Address(es) 071 above
 ## MOD: Corner Braces
-- [ ] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
+- [x] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
 - Address(es) 003 above
 ## MOD: Enclosure
 - [ ] [Sovol SV08 Enclosure](https://www.sovol3d.com/collections/fdm-parts/products/sv08-transparent-plexiglass-open-enclosure)
@@ -101,24 +101,24 @@ INDEX
 - [ ] [Sovol SV08 Filament Anti-Tangle Detector](https://www.sovol3d.com/collections/fdm-parts/products/sv08-filament-anti-tangle-detection-module)
 - Address(es) 063 above
 ## MOD: Mainline Klipper
-- [ ] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
+- [x] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
 - Address(es) 043, 053 above
 ## MOD: Microswiss Hotend
-- [ ] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
+- [x] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
 - Address(es) 062 above
 ## MOD: Power Inlet Connector
-- [ ] C14 to C13 90&deg; connector [Amazon: purchased](https://a.co/d/5RM94Rs)
+- [x] C14 to C13 90&deg; connector [Amazon: purchased](https://a.co/d/5RM94Rs)
   - or [Amazon: search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
 - Address(es) 022 above
 ## MOD: Spool Holder and Filament Runout Sensor
-- [ ] Side spool holder [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
-- [ ] Filament runout sensor holder [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
+- [x] Side spool holder [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2)
+- [x] Filament runout sensor holder [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
 - Address(es) 011, 012, 013, 015 above
 ## MOD: Sovol Hotend Kit
-- [ ] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
+- [x] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
 - Address(es) 062 above
 ## MOD: Temperature Controlled MCU Fan
-- [ ] [Printables: Silent Fan Mod](https://www.printables.com/model/936462-silent-fan-airflow-mod-for-sovol-sv08) or [YouTube- ThePrintasaurus](https://www.youtube.com/watch?v=HFTSZy99Qmo&t=139s)
+- [x] [Printables: Silent Fan Mod](https://www.printables.com/model/936462-silent-fan-airflow-mod-for-sovol-sv08) or [YouTube- ThePrintasaurus](https://www.youtube.com/watch?v=HFTSZy99Qmo&t=139s)
 - Address(es) 041 above
 ## MOD: Toolchanger System
 - [ ] [Teaching Tech SVO8 Budget Toolchanger](https://www.youtube.com/playlist?list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU)
