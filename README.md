@@ -100,6 +100,9 @@ INDEX
 ## MOD: Filament Sensor
 - [ ] [Sovol SV08 Filament Anti-Tangle Detector](https://www.sovol3d.com/collections/fdm-parts/products/sv08-filament-anti-tangle-detection-module)
 - Address(es) 063 above
+## MOD: Klipper Screen
+- [c] [Sovol SV08 HDMI Capacitive Klipper Screen](https://www.sovol3d.com/collections/fdm-parts/products/sv08-upgraded-hdmi5-screen-kits)
+- 
 ## MOD: Mainline Klipper
 - [x] [github: SV08 Mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/blob/main/README.md)
 - Address(es) 043, 053 above
