@@ -46,8 +46,8 @@ INDEX
 - [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
-- [ ] 005: the printer cannot print ABS/ASA/etc.
-- [ ] 006: the system can only print one color.
+- [x] 005: the printer cannot print ABS/ASA/etc.
+- [x] 006: the system can only print one color.
 ## Spool Holder
 - [x] 011: is too free-wheeling.
 - [x] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
@@ -61,7 +61,7 @@ INDEX
 ## Screen
 - [ ] 031: (Klipper) is partially eclipsed by the printed case for sight and touch.
 - [ ] 032: (Klipper) requires 2 separate cables that run externally.
-- [ ] 033: (Standard) is a bit klunky although functional.
+- [x] 033: (Standard) is a bit klunky although functional.
 - [ ] 034: (Stamdard) menu options are bare bones.
 ## Electronics
 - [x] 041: mcu_fan is full on and noisy.
@@ -72,15 +72,15 @@ INDEX
 - [ ] 052: fan is noisy.
 - [x] 053: board does not use mainline Klipper.
 - [ ] 054: doesn't actually dip low enough to clean the nozzle on the brush.
-- [ ] 055: intentially sets nozzle onto plate and squishes out filament before printing purge line.
+- [ ] 055: intentially sets nozzle onto plate and squishes out filament before printing purge line which seems like a bad idea.
 - [ ] 056: is missing spring on tensioner screw.
 ## Filament
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 - [x] 062: doesn't seem to flow through the nozzle consistently.
-- [ ] 063: can get tangled in spool holder ruining a print.
+- [x] 063: can get tangled in spool holder ruining a print.
 - [ ] 064: is dumped in many places (front left, back left) - there is no trash can.
 ## Camera
-- [ ] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
+- [x] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 
 ---
 
