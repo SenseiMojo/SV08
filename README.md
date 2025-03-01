@@ -11,7 +11,7 @@ INDEX
   - [Overall](#overall)
   - [Spool Holder](#spool-holder)
   - [Interface](#interface)
-  - [Klipper Screen](#klipper-screen)
+  - [Screen](#screen)
   - [Electronics](#electronics)
   - [Toolhead](#toolhead)
   - [Filament](#filament)
@@ -58,9 +58,9 @@ INDEX
 - [ ] 021: for power inlet seems upside down - 1 is down while 0 is up.
 - [x] 022: for power inlet causes cord to stick straight out thus distancing printer from the wall.
 - [ ] 023: for power inlet should be on the same side as the spool holder and interface ports to minimize protrusions.
-## Klipper Screen
-- [ ] 031: is partially eclipsed by the printed case for sight and touch.
-- [ ] 032: requires 2 separate cables that run externally.
+## Screen
+- [ ] 031: for Klipper is partially eclipsed by the printed case for sight and touch.
+- [ ] 032: for Klipper requires 2 separate cables that run externally.
 ## Electronics
 - [x] 041: mcu_fan is full on and noisy.
 - 042: bay in base is protected with a formed sheet (GOOD).
