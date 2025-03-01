@@ -1,6 +1,6 @@
 # SV08
 
-Information/Modifications relevant to the Sovol SV08
+Information and modifications relevant to the Sovol SV08
 
 ---
 INDEX
