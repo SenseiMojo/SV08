@@ -87,8 +87,7 @@ INDEX
 # Modifications
 ## MOD: Anti-vibration Feet
 - [x] [Shock and Noise Cancelling Washing Machine Support](https://a.co/d/hu0rnZA)
-- [x] [Anti-Vibration Washing Machine Adapter](https://makerworld.com/en/models/20891#profileId-23767) printed in TPU
-- [ ] upload adapter (TO DO)
+- [x] [SV08 Washing Machine Anti-Vibration Adapter](https://www.printables.com/model/1213029-sv08-washing-machine-anti-vibration-adapter) printed in TPU
 - Address(es) 004 above
 ## MOD: Camera Angle
 - [ ] [Printables: Camera Angle Bracket](https://www.printables.com/model/912397-sovol-sv08-camera-angle-bracket)
