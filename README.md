@@ -165,8 +165,8 @@ Unit Specific
 - [x] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 - [ ] [MOD: Toolchanger System](#mod-toolchanger-system) (6 heads)
 
-## Unit3- TBA
-- To Be Acquired
+## Unit3- STRIX
+- Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
 
 ## Unit4- TBA
 - To Be Acquired
