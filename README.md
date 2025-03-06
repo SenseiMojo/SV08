@@ -37,6 +37,7 @@ INDEX
 - [Builds](#builds)
   - [FALCONER](#unit1--falconer)
   - [HYDRA](#unit2--hydra)
+  - [STRIX][#unit3-strix]
 
 ---
 
@@ -79,6 +80,7 @@ INDEX
 - [x] 062: doesn't seem to flow through the nozzle consistently.
 - [x] 063: can get tangled in spool holder ruining a print.
 - [ ] 064: is dumped in many places (front left, back left) - there is no trash can.
+- [ ] 065: sensor (apparently) randomly generates an error on Stepper 1.  Unplugging it avoids the error but not having a filament sensor is archaic.
 ## Camera
 - [x] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 
