@@ -23,7 +23,8 @@ INDEX
   - [Camera Angle](#mod-camera-angle)
   - [Corner Braces](#mod-corner-braces)
   - [Enclosure](#mod-enclosure)
-  - [Filament Sensor](#mod-filament-sensor)
+  - [Filament Anti-Tangle Sensor](#mod-filament-anti-tangle)
+  - [Filament Runout Sensor](#mod-filament-runout-sensor)
   - [Mainline Klipper](#mod-mainline-klipper)
   - [Microswiss Hotend](#mod-microswiss-hotend)
   - [Power Inlet Connector](#mod-power-inlet-connector)
@@ -141,7 +142,8 @@ Common Modifications
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
-- [ ] [MOD: Filament Sensor](#mod-filament-sensor) (to be installed)
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT to be installed)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT to be installed)
 - [x] [MOD: Mainline Klipper](#mod-mainline-klipper)
 - [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
@@ -157,7 +159,8 @@ Why HYDRA?  Say "ee-dra" (édra)...  Besides a wonderful destination in Greece, 
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
-- [ ] [MOD: Filament Sensor](#mod-filament-sensor) (to be installed)
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT to be installed)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT to be installed)
 - [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
 - [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
@@ -169,6 +172,19 @@ Unit Specific
 
 ## Unit3- STRIX
 - Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
+
+- [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
+- [ ] [MOD: Camera Angle](#mod-camera-angle)
+- [ ] [MOD: Corner Braces](#mod-corner-braces)
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT to be installed)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT to be installed)
+- [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [ ] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
+- [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
+
+Unit Specific
+- [ ] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 
 ## Unit4- TBA
 - To Be Acquired
