@@ -37,7 +37,7 @@ INDEX
 - [Builds](#builds)
   - [FALCONER](#unit1--falconer)
   - [HYDRA](#unit2--hydra)
-  - [STRIX][#unit3-strix]
+  - [STRIX](#unit3-strix)
 
 ---
 
