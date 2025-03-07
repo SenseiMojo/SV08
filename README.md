@@ -23,7 +23,7 @@ INDEX
   - [Camera Angle](#mod-camera-angle)
   - [Corner Braces](#mod-corner-braces)
   - [Enclosure](#mod-enclosure)
-  - [Filament Anti-Tangle Sensor](#mod-filament-anti-tangle)
+  - [Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor)
   - [Filament Runout Sensor](#mod-filament-runout-sensor)
   - [Mainline Klipper](#mod-mainline-klipper)
   - [Microswiss Hotend](#mod-microswiss-hotend)
