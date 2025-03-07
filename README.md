@@ -142,6 +142,7 @@ A check in the box indicates it has been applied at least once.
 ---
 
 # Builds
+A check in the box indicates this mod has been applied to the indicated unit.
 
 ## Unit1- FALCONER
 Why FALCONER?  It is a translation of "sovol". Although the origin of SOVOL (as a company name) is not known, the world "sovol" translates to "owl" (Ukrainian/Czech) or "question" (Uzbek) but somewhere it was also mapped to "falconer" (link lost).  The owl is an obvious choice - especially given Sovol's alignment with Obico and their logo.  But, "falconer" is more in line with the Voron nomenclature.
@@ -150,8 +151,9 @@ Common Modifications
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
-- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT to be installed)
-- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT to be installed)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
+- [x] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (stock)
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
 - [x] [MOD: Mainline Klipper](#mod-mainline-klipper)
 - [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
