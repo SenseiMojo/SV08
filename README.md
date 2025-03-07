@@ -71,6 +71,7 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [x] 041: mcu_fan is full on and noisy.
 - 042: bay in base is protected with a formed sheet (GOOD).
 - [x] 043: main board does not use mainline Klipper.
+- [x] 044: USB stick failed on at least one machine within a month.
 ## Toolhead
 - [ ] 051: is large and obscures view of nozzle interface to buildplate.
 - [ ] 052: fan is noisy.
@@ -138,6 +139,9 @@ A check in the box indicates it has been applied at least once.
 ## MOD: Toolchanger System
 - [ ] [Teaching Tech SVO8 Budget Toolchanger](https://www.youtube.com/playlist?list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU)
 - Address(es) 006 above
+## MOD: USB Stick
+- [x] [64GB USB 3.0 Flash Drive](https://www.amazon.com/dp/B09MT9KXQ1) it's overkill but it's blue
+- Address(es) 044 above
 
 ---
 
