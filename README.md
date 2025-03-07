@@ -43,9 +43,11 @@ INDEX
 ---
 
 # Comments and Critiques
+A check in the box indicates there is at least one solution for the issue (or it isn't an issue if it's a bullet).
+
 ## Overall
-- 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).
-- [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.
+- 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).  The grey Comgrow version is actually nicer from a utilitarian point of view.
+- [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.  Similar for the grey - but that's less of an issue.
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
 - [x] 005: the printer cannot print ABS/ASA/etc.
@@ -53,7 +55,7 @@ INDEX
 ## Spool Holder
 - [x] 011: is too free-wheeling.
 - [x] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
-- [x] 013: sticks out an an odd angle.
+- [x] 013: sticks out an an odd angle and is unnecessarily above the top.
 - 014: is on the same side as the USB port (GOOD).
 - [x] 015: sticks out far to the side.
 ## Interface
@@ -74,20 +76,22 @@ INDEX
 - [ ] 052: fan is noisy.
 - [x] 053: board does not use mainline Klipper.
 - [ ] 054: doesn't actually dip low enough to clean the nozzle on the brush.
-- [ ] 055: intentially sets nozzle onto plate and squishes out filament before printing purge line which seems like a bad idea.
+- [ ] 055: intentially sets nozzle onto plate and squishes out filament before printing purge line which seems like a bad idea.  But maybe this is to minimize nozzle oozing?
 - [ ] 056: is missing spring on tensioner screw.
 ## Filament
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 - [x] 062: doesn't seem to flow through the nozzle consistently.
 - [x] 063: can get tangled in spool holder ruining a print.
 - [ ] 064: is dumped in many places (front left, back left) - there is no trash can.
-- [ ] 065: sensor (apparently) randomly generates an error on Stepper 1.  Unplugging it avoids the error but not having a filament sensor is archaic.
+- [x] 065: sensor (apparently) randomly generates an error on Stepper Z1.  Unplugging it avoids the error but not having a filament sensor is archaic (barbaric?).
 ## Camera
 - [x] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 
 ---
 
 # Modifications
+A check in the box indicates it has been applied at least once.
+
 ## MOD: Anti-vibration Feet
 - [x] [Shock and Noise Cancelling Washing Machine Support](https://a.co/d/hu0rnZA)
 - [x] [SV08 Washing Machine Anti-Vibration Adapter](https://www.printables.com/model/1213029-sv08-washing-machine-anti-vibration-adapter) printed in TPU
@@ -101,9 +105,13 @@ INDEX
 ## MOD: Enclosure
 - [ ] [Sovol SV08 Enclosure](https://www.sovol3d.com/collections/fdm-parts/products/sv08-transparent-plexiglass-open-enclosure)
 - Address(es) 005 above
-## MOD: Filament Sensor
-- [ ] [Sovol SV08 Filament Anti-Tangle Detector](https://www.sovol3d.com/collections/fdm-parts/products/sv08-filament-anti-tangle-detection-module)
+## MOD: Filament Anti-Tangle Sensor
+- [x] [Sovol SV08 Filament Anti-Tangle Detector](https://www.sovol3d.com/collections/fdm-parts/products/sv08-filament-anti-tangle-detection-module)
+- [ ] [BTT SFS](https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor)
 - Address(es) 063 above
+## MOD: Filament Runout Sensor
+- [x] [Sovol SV08 Filament Runout Sensor](https://www.sovol3d.com/collections/fdm-parts/products/filament-runout-sensor-kit-for-sv08) (stock)
+- [ ] [BTT SFS](https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor)
 ## MOD: Klipper Screen
 - [x] [Sovol SV08 HDMI Capacitive Klipper Screen](https://www.sovol3d.com/collections/fdm-parts/products/sv08-upgraded-hdmi5-screen-kits)
 - Address(es) 033 above
