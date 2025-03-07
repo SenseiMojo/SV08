@@ -32,6 +32,7 @@ INDEX
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
   - [Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
   - [Toolchanger System](#mod-toolchanger-system)
+  - [USB Stick](#mod-usb-stick)
 
 <br/>
 
