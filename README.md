@@ -15,6 +15,7 @@ INDEX
   - [Electronics](#electronics)
   - [Toolhead](#toolhead)
   - [Filament](#filament)
+  - [Camera](#camera)
 
 <br/>
 
@@ -25,6 +26,7 @@ INDEX
   - [Enclosure](#mod-enclosure)
   - [Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor)
   - [Filament Runout Sensor](#mod-filament-runout-sensor)
+  - [Klipper Screen](#mod-klipper-screen)
   - [Mainline Klipper](#mod-mainline-klipper)
   - [Microswiss Hotend](#mod-microswiss-hotend)
   - [Power Inlet Connector](#mod-power-inlet-connector)
@@ -52,13 +54,13 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
 - [x] 005: the printer cannot print ABS/ASA/etc.
-- [x] 006: the system can only print one color.
+- [x] 006: the stock system can only print one color.
 ## Spool Holder
 - [x] 011: is too free-wheeling.
 - [x] 012: was broken and not fixable in one delivery - couldn't find a suitable adhesive.
-- [x] 013: sticks out an an odd angle and is unnecessarily above the top.
+- [x] 013: sticks out an an odd angle and is unnecessarily above the top surface.
 - 014: is on the same side as the USB port (GOOD).
-- [x] 015: sticks out far to the side.
+- [x] 015: sticks out far to the side because its diameter is at right angles to the side of the printer.
 ## Interface
 - [ ] 021: for power inlet seems upside down - 1 is down while 0 is up.
 - [x] 022: for power inlet causes cord to stick straight out thus distancing printer from the wall.
@@ -69,7 +71,7 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [x] 033: (Standard) is a bit klunky although functional.
 - [ ] 034: (Stamdard) menu options are bare bones.
 ## Electronics
-- [x] 041: mcu_fan is full on and noisy.
+- [x] 041: mcu_fan is (by default) always full on and it is noisy.
 - 042: bay in base is protected with a formed sheet (GOOD).
 - [x] 043: main board does not use mainline Klipper.
 - [x] 044: USB stick failed on at least one machine within a month.
@@ -83,7 +85,7 @@ A check in the box indicates there is at least one solution for the issue (or it
 ## Filament
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 - [x] 062: doesn't seem to flow through the nozzle consistently.
-- [x] 063: can get tangled in spool holder ruining a print.
+- [x] 063: can get tangled in stock spool holder ruining a print.
 - [ ] 064: is dumped in many places (front left, back left) - there is no trash can.
 - [x] 065: sensor (apparently) randomly generates an error on Stepper Z1.  Unplugging it avoids the error but not having a filament sensor is archaic (barbaric?).
 ## Camera
