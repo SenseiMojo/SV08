@@ -188,7 +188,7 @@ Unit Specific
 - [ ] [MOD: Toolchanger System](#mod-toolchanger-system) (6 heads)
 
 ## Unit3- STRIX
-- Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
+- Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 light blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
 
 - [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
@@ -203,8 +203,8 @@ Unit Specific
 Unit Specific
 - [ ] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
 
-## Unit4- TBA
-- To Be Acquired
+## Unit4- NACHTEULE
+- Why NACHTEULE?  A trip to the German consulate while deliberaring on this Comgrow unit may have influenced the choice of name as the coloring suggests night owl.
 
 ---
 
