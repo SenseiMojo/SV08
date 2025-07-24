@@ -70,7 +70,7 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [ ] 031: (Klipper) is partially eclipsed by the printed case for sight and touch.
 - [ ] 032: (Klipper) requires 2 separate cables that run externally.
 - [x] 033: (Standard) is a bit klunky although functional.
-- [ ] 034: (Stamdard) menu options are bare bones.
+- [ ] 034: (Standard) menu options are bare bones.
 ## Electronics
 - [x] 041: mcu_fan is (by default) always full on and it is noisy.
 - 042: bay in base is protected with a formed sheet (GOOD).
