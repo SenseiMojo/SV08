@@ -202,10 +202,23 @@ Unit Specific
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
 
 Unit Specific
-- [ ] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
+- [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Unit4- NACHTEULE
 - Why NACHTEULE?  A trip to the German consulate while deliberaring on this Comgrow unit may have influenced the choice of name as the coloring suggests night owl.
+
+- [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
+- [ ] [MOD: Camera Angle](#mod-camera-angle)
+- [ ] [MOD: Corner Braces](#mod-corner-braces)
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT to be installed)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT to be installed)
+- [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [ ] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
+- [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
+
+Unit Specific
+- [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ---
 
