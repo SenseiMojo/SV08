@@ -205,7 +205,7 @@ Unit Specific
 - [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Unit4- NACHTEULE
-- Why NACHTEULE?  A trip to the German consulate while deliberaring on this Comgrow unit may have influenced the choice of name as the coloring suggests night owl.
+- Why NACHTEULE?  A trip to the German consulate while deliberating on this Comgrow unit may have influenced the choice of name as the coloring suggests night owl.
 
 - [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
