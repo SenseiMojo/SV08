@@ -50,8 +50,8 @@ INDEX
 A check in the box indicates there is at least one solution for the issue (or it isn't an issue if it's a bullet).
 
 ## Overall
-- [x] 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).  The grey Comgrow version is actually nicer from a utilitarian point of view.
-- [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.  Similar for the grey - but that's less of an issue.
+- 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).  The grey Comgrow version is actually nicer from a utilitarian point of view.
+- [x] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.  Similar for the grey - but that's less of an issue.
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
 - [x] 005: the stock printer cannot print ABS/ASA/etc.
@@ -106,7 +106,7 @@ A check in the box indicates it has been applied at least once.
 - Address(es) 071 above
 ## MOD: Color of Mods
 - [x] [Filabees ASA Sparkle Storm Gray](https://www.amazon.com/dp/B0D5LJHHL7)
-- Address(es) 001 above
+- Address(es) 001,002 above
 ## MOD: Corner Braces
 - [x] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
 - Address(es) 003 above
