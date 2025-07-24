@@ -174,6 +174,7 @@ Unit Specific
 ## Unit2- HYDRA
 Why HYDRA?  Say "ee-dra" (édra)...  Besides a wonderful destination in Greece, Hydra also alludes to a multi-headed monster which sounds like a good name for a toolchanger.  Thank Michael at [Teaching Tech](https://www.youtube.com/watch?v=7roEGbkvSCc&list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU) for this.
 
+Common Modifications
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
@@ -191,6 +192,7 @@ Unit Specific
 ## Unit3- STRIX
 - Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 light blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
 
+Common Modifications
 - [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [ ] [MOD: Corner Braces](#mod-corner-braces)
@@ -207,6 +209,7 @@ Unit Specific
 ## Unit4- NACHTEULE
 - Why NACHTEULE?  A trip to the German consulate while deliberating on this Comgrow unit may have influenced the choice of name as the coloring suggests night owl.
 
+Common Modifications
 - [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [ ] [MOD: Corner Braces](#mod-corner-braces)
