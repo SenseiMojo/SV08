@@ -50,7 +50,7 @@ INDEX
 A check in the box indicates there is at least one solution for the issue (or it isn't an issue if it's a bullet).
 
 ## Overall
-- 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).  The grey Comgrow version is actually nicer from a utilitarian point of view.
+- [x] 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).  The grey Comgrow version is actually nicer from a utilitarian point of view.
 - [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.  Similar for the grey - but that's less of an issue.
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
@@ -104,6 +104,9 @@ A check in the box indicates it has been applied at least once.
 ## MOD: Camera Angle
 - [ ] [Printables: Camera Angle Bracket](https://www.printables.com/model/912397-sovol-sv08-camera-angle-bracket)
 - Address(es) 071 above
+## MOD: Color of Mods
+- [x] [Filabees ASA Sparkle Storm Gray](https://www.amazon.com/dp/B0D5LJHHL7)
+- Address(es) 001 above
 ## MOD: Corner Braces
 - [x] [Printables: Top Corner Braces](https://www.printables.com/model/978613-sovol-sv08-top-corner-braces)
 - Address(es) 003 above
@@ -158,6 +161,7 @@ Why FALCONER?  It is a translation of "sovol". Although the origin of SOVOL (as 
 Common Modifications
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
+- [x] [MOD: Color of Mods](#mod-color-of-mods)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
 - [x] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (stock)
@@ -177,6 +181,7 @@ Why HYDRA?  Say "ee-dra" (édra)...  Besides a wonderful destination in Greece, 
 Common Modifications
 - [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
+- [x] [MOD: Color of Mods](#mod-color-of-mods)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
 - [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT to be installed)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT to be installed)
@@ -195,6 +200,7 @@ Unit Specific
 Common Modifications
 - [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
+- [x] [MOD: Color of Mods](#mod-color-of-mods)
 - [ ] [MOD: Corner Braces](#mod-corner-braces)
 - [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT to be installed)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT to be installed)
@@ -212,6 +218,7 @@ Unit Specific
 Common Modifications
 - [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
+- [x] [MOD: Color of Mods](#mod-color-of-mods)
 - [ ] [MOD: Corner Braces](#mod-corner-braces)
 - [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT to be installed)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT to be installed)
