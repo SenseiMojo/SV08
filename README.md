@@ -54,7 +54,7 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [ ] 002: a printable match to the main blue is elusive thus mods must be printed in a complementary color.  Similar for the grey - but that's less of an issue.
 - [x] 003: the frame may be a bit wobbly.
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
-- [x] 005: the printer cannot print ABS/ASA/etc.
+- [x] 005: the stock printer cannot print ABS/ASA/etc.
 - [x] 006: the stock system can only print one color.
 ## Spool Holder
 - [x] 011: is too free-wheeling.
