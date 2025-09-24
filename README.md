@@ -29,6 +29,7 @@ INDEX
   - [Klipper Screen](#mod-klipper-screen)
   - [Mainline Klipper](#mod-mainline-klipper)
   - [Microswiss Hotend](#mod-microswiss-hotend)
+  - [Multiple Spool Holder](#mod-multiple-spool-holder)
   - [Power Inlet Connector](#mod-power-inlet-connector)
   - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
@@ -84,6 +85,7 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [x] 013: sticks out an an odd angle and is unnecessarily above the top surface.
 - 014: is on the same side as the USB port (GOOD).
 - [x] 015: sticks out far to the side because its diameter is at right angles to the side of the printer.
+- [x] 016: only holds one spool
 ## Toolhead
 - [ ] 051: is large and obscures view of nozzle interface to buildplate.
 - [ ] 052: fan is noisy.
@@ -131,6 +133,9 @@ A check in the box indicates it has been applied at least once.
 ## MOD: Microswiss Hotend
 - [x] [Microswiss FlowTech™ Hotend for Sovol SV08](https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/microswiss-flowtech-hotend-for-sovol-sv08)
 - Address(es) 062 above
+## MOD: Multiple Spool Holder
+- [ ] [Minimalist Spool Holder for 2020/2040 Extrusion](https://www.printables.com/model/504204-minimalist-spool-holder-for-20202040-extrusion)
+- Address(es) 016 above
 ## MOD: Power Inlet Connector
 - [x] C14 to C13 90&deg; connector [Amazon: purchased](https://a.co/d/5RM94Rs)
   - or [Amazon: search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
@@ -138,7 +143,7 @@ A check in the box indicates it has been applied at least once.
 ## MOD: Spool Holder and Filament Runout Sensor
 - [x] Side spool holder [Printables: Side Mount Spool Holder V2](https://www.printables.com/model/901288-sovol-sv08-side-mount-spool-holder-v2) (print in reverse for front right side)
 - [x] Filament runout sensor holder [Printables: Filament Runout Sensor Mount](https://www.printables.com/model/919447-sv08-filament-runout-sensor-holder)
-- Address(es) 011, 012, 013, 015 above
+- Address(es) 011, 012, 013, 015, 016 above
 ## MOD: Sovol Hotend Kit
 - [x] [Sovol Hardened Steel Nozzle Kit](https://www.sovol3d.com/collections/fdm-parts/products/0-4mm-hardened-steel-nozzle-kit-for-sv08-t300)
 - Address(es) 062 above
@@ -184,16 +189,35 @@ Common Modifications
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Color of Mods](#mod-color-of-mods)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
-- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
-- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT times 6)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT times 6)
 - [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
 - [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
 
 Unit Specific
-- [x] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit)
+- [x] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit) (times 6)
 - [ ] [MOD: Toolchanger System](#mod-toolchanger-system) (6 heads)
+- [ ] [MOD: Multiple Spool Holder](#mod-multiple-spool-holder) (6 spools)
+
+## Unit3- STRIX
+- Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 light blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
+
+Common Modifications
+- [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet) (in Clear)
+- [ ] [MOD: Camera Angle](#mod-camera-angle)
+- [x] [MOD: Color of Mods](#mod-color-of-mods)
+- [x] [MOD: Corner Braces](#mod-corner-braces)
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
+- [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
+- [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
+- [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
+
+Unit Specific
+- [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ## Unit3- STRIX
 - Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 light blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
@@ -219,7 +243,7 @@ Unit Specific
 - Why NACHTEULE?  A trip to the German consulate while deliberating on this Comgrow unit may have influenced the choice of name as the coloring suggests night owl.
 
 Common Modifications
-- [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet) (in Clear)
+- [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet) (in Clear)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Color of Mods](#mod-color-of-mods)
 - [x] [MOD: Corner Braces](#mod-corner-braces)
