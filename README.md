@@ -30,9 +30,10 @@ INDEX
   - [Mainline Klipper](#mod-mainline-klipper)
   - [Microswiss Hotend](#mod-microswiss-hotend)
   - [Multiple Spool Holder](#mod-multiple-spool-holder)
+  - [Poop Bin Holder](#mod-poop-bin-holder)
   - [Power Inlet Connector](#mod-power-inlet-connector)
-  - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
   - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
+  - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
   - [Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
   - [Toolchanger System](#mod-toolchanger-system)
   - [USB Stick](#mod-usb-stick)
@@ -57,6 +58,7 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [x] 004: the printer may vibrate and move around a bit as well as shake the table.
 - [x] 005: the stock printer cannot print ABS/ASA/etc.
 - [x] 006: the stock system can only print one color.
+- [x] 007: sometimes it is tough to align the build plate.
 ## Camera
 - [x] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 ## Electronics
@@ -68,8 +70,9 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [ ] 061: path requires disassembling PTFE tube when filmament runs out (distance from sensor to toolhead is long so loading a follower is not reasonable).
 - [x] 062: doesn't seem to flow through the nozzle consistently.
 - [x] 063: can get tangled in stock spool holder ruining a print.
-- [ ] 064: is dumped in many places (front left, back left) - there is no trash can.
+- [x] 064: is dumped in many places (front left, back left) - there is no trash can.
 - [x] 065: sensor (apparently) randomly generates an error on Stepper Z1.  Unplugging it avoids the error but not having a filament sensor is archaic (barbaric?).
+- [x] 066: runs out and the printer doesn't stop.
 ## Interface
 - [ ] 021: for power inlet seems upside down - 1 is down while 0 is up.
 - [x] 022: for power inlet causes cord to stick straight out thus unnecessarily distancing printer from the wall.
@@ -103,6 +106,9 @@ A check in the box indicates it has been applied at least once.
 - [x] [Shock and Noise Cancelling Washing Machine Support](https://a.co/d/hu0rnZA)
 - [x] [SV08 Washing Machine Anti-Vibration Adapter](https://www.printables.com/model/1213029-sv08-washing-machine-anti-vibration-adapter) printed in TPU
 - Address(es) 004 above
+## MOD: Build Plate Alignment
+- [ ] [SV08 Build Plate Alignment](https://www.printables.com/model/1111031-sv08-build-plate-alignment)
+- Address(es) 007 above
 ## MOD: Camera Angle
 - [ ] [Printables: Camera Angle Bracket](https://www.printables.com/model/912397-sovol-sv08-camera-angle-bracket)
 - Address(es) 071 above
@@ -124,6 +130,7 @@ A check in the box indicates it has been applied at least once.
 ## MOD: Filament Runout Sensor
 - [ ] [Sovol SV08 Filament Runout Sensor](https://www.sovol3d.com/collections/fdm-parts/products/filament-runout-sensor-kit-for-sv08) (stock)
 - [ ] [BTT SFS](https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor)
+- Address(es) 066 above
 ## MOD: Klipper Screen
 - [x] [Sovol SV08 HDMI Capacitive Klipper Screen](https://www.sovol3d.com/collections/fdm-parts/products/sv08-upgraded-hdmi5-screen-kits)
 - Address(es) 033 above
@@ -136,6 +143,8 @@ A check in the box indicates it has been applied at least once.
 ## MOD: Multiple Spool Holder
 - [ ] [Minimalist Spool Holder for 2020/2040 Extrusion](https://www.printables.com/model/504204-minimalist-spool-holder-for-20202040-extrusion)
 - Address(es) 016 above
+## MOD: Poop Bin Holder
+- [ ] [Poop Bin for SV08](https://www.printables.com/model/1133022-poop-bin-for-sv08)
 ## MOD: Power Inlet Connector
 - [x] C14 to C13 90&deg; connector [Amazon: purchased](https://a.co/d/5RM94Rs)
   - or [Amazon: search for options](https://www.amazon.com/s?k=C14+to+C13+90+degree+power+extension+adapter&i=electronics&crid=2Q3B6TUQFPUAM&sprefix=c14+to+c13+90+degree+power+extension+adapter%2Celectronics%2C81&ref=nb_sb_noss)
@@ -172,6 +181,7 @@ Common Modifications
 - [x] [MOD: Corner Braces](#mod-corner-braces)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
 - [x] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Poop Bin Holder](#mod-poop-bin-holder)
 - [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [x] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
@@ -192,6 +202,7 @@ Common Modifications
 - [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT times 6)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT times 6)
 - [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Poop Bin Holder](#mod-poop-bin-holder)
 - [x] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
@@ -212,6 +223,7 @@ Common Modifications
 - [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
 - [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Poop Bin Holder](#mod-poop-bin-holder)
 - [ ] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
@@ -230,6 +242,7 @@ Common Modifications
 - [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
 - [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Poop Bin Holder](#mod-poop-bin-holder)
 - [ ] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
@@ -250,6 +263,7 @@ Common Modifications
 - [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
 - [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
 - [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
+- [ ] [MOD: Poop Bin Holder](#mod-poop-bin-holder)
 - [ ] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
 - [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
