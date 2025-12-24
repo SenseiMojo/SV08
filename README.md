@@ -208,9 +208,11 @@ Common Modifications
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
 
 Unit Specific
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
+- [ ] [MOD: Multiple Spool Holder](#mod-multiple-spool-holder) (6 spools)
 - [x] [MOD: Sovol Hotend Kit](#mod-sovol-hotend-kit) (times 6)
 - [ ] [MOD: Toolchanger System](#mod-toolchanger-system) (6 heads)
-- [ ] [MOD: Multiple Spool Holder](#mod-multiple-spool-holder) (6 spools)
 
 ## Unit3- STRIX
 - Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 light blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
