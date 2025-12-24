@@ -216,25 +216,6 @@ Unit Specific
 - Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 light blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
 
 Common Modifications
-- [x] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet) (in Clear)
-- [ ] [MOD: Camera Angle](#mod-camera-angle)
-- [x] [MOD: Color of Mods](#mod-color-of-mods)
-- [x] [MOD: Corner Braces](#mod-corner-braces)
-- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
-- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
-- [ ] [MOD: Mainline Klipper](#mod-mainline-klipper)
-- [ ] [MOD: Poop Bin Holder](#mod-poop-bin-holder)
-- [ ] [MOD: Power Inlet Connector](#mod-power-inlet-connector)
-- [x] [MOD: Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
-- [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
-
-Unit Specific
-- [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
-
-## Unit3- STRIX
-- Why STRIX?  See FALCONER and the obvious link to owl.  This unit is actually labeled Comgrow and has grey parts (instead of the Sovol SV08 light blue).  STRIX is a genus of owls including S. nebulosa (but nebulosa doesn't sound as cool).  [Wikipedia Great Grey Owl](https://en.wikipedia.org/wiki/Great_grey_owl).
-
-Common Modifications
 - [ ] [MOD: Anti-vibration Feet](#mod-anti-vibration-feet) (in Clear)
 - [ ] [MOD: Camera Angle](#mod-camera-angle)
 - [x] [MOD: Color of Mods](#mod-color-of-mods)
@@ -269,6 +250,8 @@ Common Modifications
 - [ ] [MOD: Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
 
 Unit Specific
+- [ ] [MOD: Filament Runout Sensor](#mod-filament-runout-sensor) (BTT)
+- [ ] [MOD: Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor) (BTT)
 - [x] [MOD: Microswiss Hotend](#mod-microswiss-hotend)
 
 ---
