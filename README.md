@@ -19,7 +19,7 @@ A check in the box indicates there is at least one solution for the issue (or it
 - [x] 071: is mounted at a shallow angle not giving optimal view of the plate from its location.
 ## Electronics
 - [x] 041: mcu_fan is (by default) always full on and it is noisy.
-- 042: bay in base is protected with a formed sheet (GOOD).
+- 042: bay in base is protected with a formed aluminum sheet (GOOD).
 - [x] 043: main board does not use mainline Klipper.
 - [x] 044: USB stick failed on at least one machine within a month.
 ## Filament
