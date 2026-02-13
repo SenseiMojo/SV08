@@ -3,50 +3,6 @@
 Information and modifications relevant to the Sovol SV08
 
 ---
-INDEX
-
-<br/>
-
-- [Comments and Critiques](#comments-and-critiques)
-  - [Overall](#overall)
-  - [Camera](#camera)
-  - [Electronics](#electronics)
-  - [Filament](#filament)
-  - [Interface](#interface)
-  - [Screen](#screen)
-  - [Spool Holder](#spool-holder)
-  - [Toolhead](#toolhead)
-
-<br/>
-
-- [Modifications](#modifications)
-  - [Anti-Vibration Feet](#mod-anti-vibration-feet)
-  - [Camera Angle](#mod-camera-angle)
-  - [Corner Braces](#mod-corner-braces)
-  - [Enclosure](#mod-enclosure)
-  - [Filament Anti-Tangle Sensor](#mod-filament-anti-tangle-sensor)
-  - [Filament Runout Sensor](#mod-filament-runout-sensor)
-  - [Klipper Screen](#mod-klipper-screen)
-  - [Mainline Klipper](#mod-mainline-klipper)
-  - [Microswiss Hotend](#mod-microswiss-hotend)
-  - [Multiple Spool Holder](#mod-multiple-spool-holder)
-  - [Poop Bin Holder](#mod-poop-bin-holder)
-  - [Power Inlet Connector](#mod-power-inlet-connector)
-  - [Sovol Hotend Kit](#mod-sovol-hotend-kit)
-  - [Spool Holder and Filament Runout Sensor](#mod-spool-holder-and-filament-runout-sensor)
-  - [Temperature Controlled MCU Fan](#mod-temperature-controlled-mcu-fan)
-  - [Toolchanger System](#mod-toolchanger-system)
-  - [USB Stick](#mod-usb-stick)
-
-<br/>
-
-- [Builds](#builds)
-  - [FALCONER](#unit1--falconer)
-  - [HYDRA](#unit2--hydra)
-  - [STRIX](#unit3--strix)
-  - [NACHTEULE](#unit4--nachteule)
-
----
 
 # Comments and Critiques
 A check in the box indicates there is at least one solution for the issue (or it isn't an issue if it's a bullet).
