@@ -7,7 +7,7 @@ Information and modifications relevant to the Sovol SV08
 ---
 
 # Comments and Critiques
-A check in the box indicates there is at least one solution for the issue (or it isn't an issue if it's a bullet).
+A check in the box indicates there is at least one solution for the issue (a bullet indicates it isn't an issue that needs to be resolved).
 
 ## Overall
 - 001: the blue/anthracite color scheme is quite appealing (or at least not appalling).  The grey Comgrow version is actually nicer from a utilitarian point of view.
